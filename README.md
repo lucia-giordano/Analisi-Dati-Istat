@@ -3,7 +3,7 @@
 Questo progetto si propone di analizzare i dati Istat relativi agli incidenti stradali, per evidenziare dinamiche ricorrenti, tassi di mortalità e pattern sul territorio attraverso tecniche di clustering e data visualization.
 
 ## Tecnologie Utilizzate
-- **Python** (Pandas, NumPy, Scikit-Learn) per la pulizia dei dati e la segmentazione in cluster.
+- **Python** (Pandas, NumPy, Scikit-Learn e altre librerie specifiche) per la pulizia dei dati e la segmentazione in cluster.
 - **Google Colab** per la fase di sviluppo del codice analitico.
 - **Power BI** per la creazione della dashboard interattiva e l'analisi territoriale.
 
