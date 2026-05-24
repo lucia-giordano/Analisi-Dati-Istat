@@ -11,6 +11,10 @@ Questo progetto si propone di analizzare i dati Istat relativi agli incidenti st
 - `Pulizia_Dati_Istat_Final_Assignment.ipynb`: Notebook dedicato al caricamento dei dataset grezzi e alla preparazione dei dati.
 - `Analisi_Dati_istat_Final_Assignment.ipynb`: Notebook contenente l'analisi del dataset e l'algoritmo di clustering per la segmentazione dei comuni.
 - `Power BI dati istat.pbix`: File di Power BI con il report interattivo per esplorare i cluster, il numero di incidenti, i tassi di incidente e gli indici di mortalità.
+- `Presentazione_Dati_Istat_Traffico.key`: Breve presentazione sul significato della suddivisione in cluster.
+- `linea_tempo_completa_definitiva11.csv` e `incidenti_clusters_definitivo11.csv`: File CSV utilizzati nella parte di data visualizationin Power BI.
+
+
 
 ## Risultati Principali
 - Identificazione di 3 cluster principali basati sulla gravità e sulla frequenza degli incidenti.
